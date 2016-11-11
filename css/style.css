@@ -1,0 +1,80 @@
+/* Inserta tu código aqui */
+* {
+    outline:1px  solid red ;
+}
+
+header{
+background:black;
+}
+
+header img{
+    width: 80px;
+}s
+header .list-menu{
+    margin:0px;
+    padding: 0px;
+    list-style: none;
+    text-align: center;
+} 
+header .list-menu .li
+{
+display: inline-block;
+}
+header .list-menu a
+{
+color:5px 10px;
+padding: ;
+display: block;
+}
+.list-episodes
+{
+background: #FFF;
+}
+ .last-episodes .list-episodes
+ {
+    width:100px;
+ }
+.last-episodes p
+{
+text-align: center;
+}
+.list-contenido
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+ .list-contenido li
+ {
+    display: inline-block;
+    width: 109px;
+    margin: 0 10px 0 10px;
+    text-align: top;
+
+ }
+ .list-contenido img
+ {
+    width: 100%;
+ }
+ .navigation h3
+ {
+  border-bottom: 1px solid;
+  margin: 10px 0;
+
+ }
+ .navigation ul
+ {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+ }
+  .navigation ul img
+  {
+    margin-right: 10px;
+  }
+ .navigation ul a 
+ {
+text-decoration: none;
+color: blue;
+ }
